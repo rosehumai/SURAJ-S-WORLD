@@ -1,0 +1,11 @@
+h1{ text-align:center;
+padding:80px;
+color:#ff6a7f;
+}
+main{ 
+   margin-left:125px;
+}
+.login{
+    padding: 0px 75px 0px 75px;
+    background-color: #55acff;
+}
